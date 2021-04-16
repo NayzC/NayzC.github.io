@@ -1,0 +1,28 @@
+.header{
+    color:#2E3440;
+    font-family: monospace;
+    font-size: 40pt;
+    text-align: center;
+}
+.paragraph{
+    color:#2E3440;
+}
+.cakeimg{
+    align-content: center;
+}
+body{
+    background-color: #E5E9F0;
+    margin: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+a:link{
+    color: black;
+    text-decoration:none;
+}
+a::after{
+    color: black;
+}
+a:visited{
+    color: black;
+}
